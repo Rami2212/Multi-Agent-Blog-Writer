@@ -1,0 +1,11 @@
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-google-genai
+langchain-tavily
+langgraph
+streamlit
+python-dotenv
+matplotlib
+requests
