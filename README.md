@@ -34,7 +34,6 @@ The system is built on a hierarchical agent graph managed by a Supervisor:
 - **Google Gemini (via `langchain-google-genai`)**: The primary LLM used for reasoning and generation.
 - **Tavily API**: For high-quality search results optimized for LLMs.
 - **Streamlit**: For the web-based user interface.
-- **BeautifulSoup4**: For web scraping.
 
 ## Prerequisites
 
